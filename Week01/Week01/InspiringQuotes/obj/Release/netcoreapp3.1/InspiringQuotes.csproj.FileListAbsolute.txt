@@ -1,0 +1,17 @@
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\bin\Release\netcoreapp3.1\InspiringQuotes.exe
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\bin\Release\netcoreapp3.1\InspiringQuotes.deps.json
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\bin\Release\netcoreapp3.1\InspiringQuotes.runtimeconfig.json
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\bin\Release\netcoreapp3.1\InspiringQuotes.runtimeconfig.dev.json
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\bin\Release\netcoreapp3.1\InspiringQuotes.dll
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\bin\Release\netcoreapp3.1\InspiringQuotes.pdb
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\obj\Release\netcoreapp3.1\InspiringQuotes.csprojAssemblyReference.cache
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\obj\Release\netcoreapp3.1\MainWindow.g.cs
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\obj\Release\netcoreapp3.1\App.g.cs
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\obj\Release\netcoreapp3.1\InspiringQuotes_MarkupCompile.cache
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\obj\Release\netcoreapp3.1\InspiringQuotes_MarkupCompile.lref
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\obj\Release\netcoreapp3.1\MainWindow.baml
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\obj\Release\netcoreapp3.1\InspiringQuotes.g.resources
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\obj\Release\netcoreapp3.1\InspiringQuotes.AssemblyInfoInputs.cache
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\obj\Release\netcoreapp3.1\InspiringQuotes.AssemblyInfo.cs
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\obj\Release\netcoreapp3.1\InspiringQuotes.dll
+D:\School\WindowProgramming\Week01\Week01\InspiringQuotes\obj\Release\netcoreapp3.1\InspiringQuotes.pdb

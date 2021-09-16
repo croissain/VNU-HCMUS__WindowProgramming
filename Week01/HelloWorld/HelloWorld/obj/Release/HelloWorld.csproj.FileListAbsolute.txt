@@ -1,0 +1,13 @@
+D:\School\WindowProgramming\Week01\HelloWorld\HelloWorld\obj\Release\HelloWorld.csprojAssemblyReference.cache
+D:\School\WindowProgramming\Week01\HelloWorld\HelloWorld\obj\Release\MainWindow.g.cs
+D:\School\WindowProgramming\Week01\HelloWorld\HelloWorld\obj\Release\App.g.cs
+D:\School\WindowProgramming\Week01\HelloWorld\HelloWorld\obj\Release\HelloWorld_MarkupCompile.cache
+D:\School\WindowProgramming\Week01\HelloWorld\HelloWorld\obj\Release\HelloWorld_MarkupCompile.lref
+D:\School\WindowProgramming\Week01\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+D:\School\WindowProgramming\Week01\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
+D:\School\WindowProgramming\Week01\HelloWorld\HelloWorld\obj\Release\MainWindow.baml
+D:\School\WindowProgramming\Week01\HelloWorld\HelloWorld\obj\Release\HelloWorld.g.resources
+D:\School\WindowProgramming\Week01\HelloWorld\HelloWorld\obj\Release\HelloWorld.Properties.Resources.resources
+D:\School\WindowProgramming\Week01\HelloWorld\HelloWorld\obj\Release\HelloWorld.csproj.GenerateResource.cache
+D:\School\WindowProgramming\Week01\HelloWorld\HelloWorld\obj\Release\HelloWorld.exe
+D:\School\WindowProgramming\Week01\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb

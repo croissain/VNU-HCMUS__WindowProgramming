@@ -1,0 +1,17 @@
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\obj\Release\netcoreapp3.1\RandomEnglish.csprojAssemblyReference.cache
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\obj\Release\netcoreapp3.1\MainWindow.g.cs
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\obj\Release\netcoreapp3.1\App.g.cs
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\obj\Release\netcoreapp3.1\RandomEnglish_MarkupCompile.cache
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\obj\Release\netcoreapp3.1\RandomEnglish_MarkupCompile.lref
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\bin\Release\netcoreapp3.1\RandomEnglish.exe
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\bin\Release\netcoreapp3.1\RandomEnglish.deps.json
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\bin\Release\netcoreapp3.1\RandomEnglish.runtimeconfig.json
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\bin\Release\netcoreapp3.1\RandomEnglish.runtimeconfig.dev.json
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\bin\Release\netcoreapp3.1\RandomEnglish.dll
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\bin\Release\netcoreapp3.1\RandomEnglish.pdb
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\obj\Release\netcoreapp3.1\MainWindow.baml
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\obj\Release\netcoreapp3.1\RandomEnglish.g.resources
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\obj\Release\netcoreapp3.1\RandomEnglish.AssemblyInfoInputs.cache
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\obj\Release\netcoreapp3.1\RandomEnglish.AssemblyInfo.cs
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\obj\Release\netcoreapp3.1\RandomEnglish.dll
+D:\School\WindowProgramming\Week01\Week01\RandomEnglish\obj\Release\netcoreapp3.1\RandomEnglish.pdb

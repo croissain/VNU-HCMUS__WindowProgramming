@@ -1,0 +1,18 @@
+﻿<Window x:Class="HelloWorld.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloWorld"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas>
+        <Label Content="Hãy nhập một số" FontSize="30px" Canvas.Left="350" Height="90" Width="304" Canvas.Top="122">
+
+        </Label>
+        <Image Source="/img/dashboard.png" Width="326" Height="295" Canvas.Top="115" Canvas.Left="307"/>
+        <TextBox Width="246" Canvas.Left="96" Canvas.Top="58">
+
+        </TextBox>
+    </Canvas>
+</Window>

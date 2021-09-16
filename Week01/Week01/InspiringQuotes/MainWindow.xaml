@@ -1,0 +1,41 @@
+﻿<Window x:Class="InspiringQuotes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InspiringQuotes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Canvas>
+        <TextBlock Name="quoteDesc"
+                   FontSize="30"
+                   FontFamily="Montserrat"
+                   TextWrapping="Wrap"
+                   Width="311"
+                   Height="308" Canvas.Top="42" Canvas.Left="39"
+                   Text="">
+            Click the button below to get an random quote.
+            Have fun!
+
+        </TextBlock>
+        
+        <Image Name="imgQuote" 
+               Source="/img/hello.jpg"
+               Width="400"
+               Height="400"
+               Margin="200" 
+               Canvas.Left="163" 
+               Canvas.Top="-158">
+        </Image>
+        
+        <Button Name="btnChangeImage" 
+                Width="100" 
+                Height="50" 
+                FontSize="20"
+                Content="Change" 
+                Click="btnChangeImage_Click" 
+                Canvas.Left="144" 
+                Canvas.Top="392">
+        </Button>
+    </Canvas>
+</Window>

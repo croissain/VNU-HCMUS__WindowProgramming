@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="img\english01.jpg" />
+    <None Remove="img\english02.jpg" />
+    <None Remove="img\english03.jpg" />
+    <None Remove="img\english04.jpg" />
+    <None Remove="img\english05.jpg" />
+    <None Remove="img\english06.jpg" />
+    <None Remove="img\english07.jpg" />
+    <None Remove="img\english08.jpg" />
+    <None Remove="img\english09.jpg" />
+    <None Remove="img\english10.jpg" />
+    <None Remove="img\english11.jpg" />
+    <None Remove="img\english12.jpg" />
+    <None Remove="img\hello.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="img\english01.jpg" />
+    <Resource Include="img\english02.jpg" />
+    <Resource Include="img\english03.jpg" />
+    <Resource Include="img\english04.jpg" />
+    <Resource Include="img\english05.jpg" />
+    <Resource Include="img\english06.jpg" />
+    <Resource Include="img\english07.jpg" />
+    <Resource Include="img\english08.jpg" />
+    <Resource Include="img\english09.jpg" />
+    <Resource Include="img\english10.jpg" />
+    <Resource Include="img\english11.jpg" />
+    <Resource Include="img\english12.jpg" />
+    <Resource Include="img\hello.jpg" />
+  </ItemGroup>
+
+</Project>
