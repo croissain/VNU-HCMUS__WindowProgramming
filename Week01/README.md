@@ -14,7 +14,7 @@ Không
 * Hiển thị ngẫu nhiên một câu nói tạo động lực kèm theo hình ảnh tương ứng.
 * Random ngẫu nhiên (có trùng) bấm nút Random tự động chuyển qua câu và hình ảnh khác.
 
-##### 2. Project 1:  RandomEnglish
+##### 2. Project 2:  RandomEnglish
 
 * Hiển thị ngẫu nhiên một từ vựng và hình ảnh của từ vựng tiếng Anh tương ứng.
 * Random ngẫu nhiên (có trùng) bấm nút Random tự động chuyển qua từ và hình ảnh khác.
