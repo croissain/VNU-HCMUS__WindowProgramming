@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RandomEnglish"
         mc:Ignorable="d"
-        Title="MainWindow" Height="800" Width="1000">
-    <Canvas>
+        Title="MainWindow" Height="550" Width="800">
+    <!--<Canvas>
         <TextBlock Name="quoteDesc"
                    FontSize="30"
                    FontFamily="Montserrat"
@@ -37,5 +37,71 @@
                 Canvas.Bottom="150"
                 Canvas.Left="150">
         </Button>
-    </Canvas>
+    </Canvas>-->
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="365*"></RowDefinition>
+            <RowDefinition Height="60*"></RowDefinition>
+            <RowDefinition Height="40*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="327*"></ColumnDefinition>
+            <ColumnDefinition Width="473*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.Resources>
+            <Style TargetType="Button">
+                <Setter Property="Width" Value="125"></Setter>
+                <Setter Property="Height" Value="50"></Setter>
+
+            </Style>
+        </Grid.Resources>
+
+        <StackPanel>
+            <TextBlock Name="quoteTitle"
+                       FontSize="45"
+                       FontWeight="Bold"
+                       FontFamily="Roboto"
+                       TextWrapping="Wrap"
+                       Foreground="#AA0000"
+                       Margin="30,60,0,0">
+                Learn Animals in English
+            </TextBlock>
+
+            <TextBlock Name="quoteDesc"
+                   FontSize="24"
+                   FontWeight="Medium"
+                   FontFamily="Roboto"
+                   TextWrapping="Wrap"
+                   Margin="30,20,0,0"
+                   Foreground="#8C6E4A"
+                   Text="">
+                Click the button below to get a random animal. <LineBreak/>
+                Enjoy!
+            </TextBlock>
+        </StackPanel>
+
+        <Grid Margin="0,365,0,0" Grid.RowSpan="2">
+            <Button Name="btnRandom"
+                    Content="Random Animal"
+                    Foreground="White"
+                    FontSize="16"
+                    FontWeight="Medium"
+                    FontFamily="Roboto"
+                    Margin="10,5,165,5"
+                    Click="btnRandomQuote_Click" 
+                    Background="#EB5555">
+            </Button>
+        </Grid>
+
+        <Grid Grid.Column="1" Grid.RowSpan="3">
+            <Image Name="imgQuote" 
+               Source="/img/hello.jpg"
+               Width="400"
+               Canvas.Right="30" 
+               Canvas.Bottom="40">
+            </Image>
+        </Grid>
+    </Grid>
 </Window>

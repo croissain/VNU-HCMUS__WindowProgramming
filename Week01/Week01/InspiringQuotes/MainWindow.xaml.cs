@@ -25,7 +25,7 @@ namespace InspiringQuotes
             InitializeComponent();
         }
 
-        private void btnChangeImage_Click(object sender, RoutedEventArgs e)
+        private void btnRandomQuote_Click(object sender, RoutedEventArgs e)
         {
             string[] names = { "01", "02", "03", "04", "05", "06", "07", "08", "09", "10" };
             string[] descs = { "Tough times don’t last. Tough people do. – Robert H. Schuller",

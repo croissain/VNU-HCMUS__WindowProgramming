@@ -25,7 +25,7 @@ namespace RandomEnglish
             InitializeComponent();
         }
 
-        private void btnChangeImage_Click(object sender, RoutedEventArgs e)
+        private void btnRandomQuote_Click(object sender, RoutedEventArgs e)
         {
             string[] names = { "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12" };
             string[] descs = { "Rabbit",
