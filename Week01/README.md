@@ -1,8 +1,8 @@
 # BTVN 01 - Câu nói tạo động lực & Học tiếng Anh
 ***
-Họ và tên: Lê Nguyễn Nhất Thọ
-MSSV: 19120671
-Email: <19120671@student.hcmus.edu.vn>
+Họ và tên: Lê Nguyễn Nhất Thọ  
+MSSV: 19120671  
+Email: <19120671@student.hcmus.edu.vn>  
 ***
 ### Các lưu ý cần thực hiện để chạy chương trình
 Không
