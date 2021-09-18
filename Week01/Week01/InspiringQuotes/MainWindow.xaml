@@ -41,13 +41,12 @@
 
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="365*"></RowDefinition>
-            <RowDefinition Height="60*"></RowDefinition>
             <RowDefinition Height="40*"></RowDefinition>
+            <RowDefinition Height="20*"></RowDefinition>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="327*"></ColumnDefinition>
-            <ColumnDefinition Width="473*"></ColumnDefinition>
+            <ColumnDefinition Width="330*"></ColumnDefinition>
+            <ColumnDefinition Width="470*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
 
         <Grid.Resources>
@@ -82,16 +81,39 @@
             </TextBlock>
         </StackPanel>
 
-        <Grid Margin="0,365,0,0" Grid.RowSpan="2">
+        <Grid Grid.Row="1">
             <Button Name="btnRandom"
                     Content="Random Quote"
-                    Foreground="White"
-                    FontSize="16"
-                    FontWeight="Medium"
-                    FontFamily="Roboto"
-                    Margin="10,5,165,5"
-                    Click="btnRandomQuote_Click" 
-                    Background="#EB5555">
+                    Click="btnRandomQuote_Click"
+                    Margin="-70,0,70,0">
+
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="FontFamily" Value="Roboto"></Setter>
+                        <Setter Property="FontSize" Value="16"></Setter>
+                        <Setter Property="FontWeight" Value="Medium"></Setter>
+                        <Setter Property="Background" Value="#EB5555"></Setter>
+                        <Setter Property="Foreground" Value="#FFFFFF"></Setter>
+                        <Setter Property="Cursor" Value="Hand"></Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#f07878"></Setter>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="125"
+                                Height="50"
+                                CornerRadius="25"
+                                Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                              HorizontalAlignment="Center"></ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
             </Button>
         </Grid>
 
